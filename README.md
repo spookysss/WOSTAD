@@ -11,3 +11,4 @@ Windows Operational System Tool And Displayer
   
   # Downloads
   Ver [0.50] : https://download1335.mediafire.com/f2nfzdp9y6xg/z2hqkw67ph54mba/WOSTAD-0.50.zip
+  Ver [0.54] : https://download1074.mediafire.com/2koow6l5gk7g/vfqddb8q3c3vltm/WOSTAD-0.54.zip
